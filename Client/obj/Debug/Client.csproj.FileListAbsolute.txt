@@ -1,0 +1,6 @@
+E:\Milos-Bojan\Bozo\Факс\7 Семестар\Дистрибуирани системи\Проект\FileTransferSimulation\Client\bin\Debug\Client.exe.config
+E:\Milos-Bojan\Bozo\Факс\7 Семестар\Дистрибуирани системи\Проект\FileTransferSimulation\Client\bin\Debug\Client.exe
+E:\Milos-Bojan\Bozo\Факс\7 Семестар\Дистрибуирани системи\Проект\FileTransferSimulation\Client\bin\Debug\Client.pdb
+E:\Milos-Bojan\Bozo\Факс\7 Семестар\Дистрибуирани системи\Проект\FileTransferSimulation\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Milos-Bojan\Bozo\Факс\7 Семестар\Дистрибуирани системи\Проект\FileTransferSimulation\Client\obj\Debug\Client.exe
+E:\Milos-Bojan\Bozo\Факс\7 Семестар\Дистрибуирани системи\Проект\FileTransferSimulation\Client\obj\Debug\Client.pdb
